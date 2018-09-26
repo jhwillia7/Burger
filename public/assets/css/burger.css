@@ -14,19 +14,19 @@ body{
 
 p{
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .well, .panel-default {
     background-color:rgba(44, 62,  69, .5);
-    border-color: #ddd;
+    border-color: black;
     border-spacing: solid;
     border: 1px solid;
-    color: white;
+    color: black;
 }
 
 .panel-default > .panel-heading {
-    background-color: rgb(255, 200, 80, .5);
+    background-color: rgba(22, 209, 116, 0.5);
     color: white;  
     padding-left: 5px;
     }
