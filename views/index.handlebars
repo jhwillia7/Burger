@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="panel panel-default">
-                    <div class="panel-heading">Some of our Top Burgers on the Menu: Click to Devour</div>
+                    <div class="panel-heading">Our Top Burgers on the Menu: Click to Devour</div>
                     <div class="panel-body buttonSection">
                             {{#each burgers}} {{#unless this.devoured}}
                             <div class="text-center">
@@ -41,7 +41,7 @@
         <div class="row"> 
         <div class="col-sm-12">
                 <div class="panel panel-default">
-                    <div class="panel-heading">What is your Favorite Burger you Would Like Us to Customer Build?</div>
+                    <div class="panel-heading">What Custom Burger You Would Like Us to Build?</div>
                     <div class="panel-body" id="mealSection">
                             <form action="/burgers" method="POST">
                                 <input type="text" class="form-control" id="name" name="burger_name">
