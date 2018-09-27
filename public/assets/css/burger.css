@@ -12,9 +12,12 @@ body{
     margin-top: 5px;
 }
 
+h1 {
+  color: white;
+}
 p{
     text-align: center;
-    color: black;
+    color: white;
 }
 
 .well, .panel-default {

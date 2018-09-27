@@ -5,49 +5,24 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ### Overview
 
-In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
+In this application, I have created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I have leveraged the MVC design pattern; using Node and MySQL to query and route data in my app, and Handlebars to generate my HTML.
 
-### Important
-
-Be sure to utilize the [MYSQL Heroku Deployment Guide](../../Supplemental/MySQLHerokuDeploymentProcess.pdf) in order to deploy your assignment.
-
-### Before You Begin
+### What does Burger do?
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 
-* Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
+* Whenever a user submits a burger's name, my app will display the burger on the left side of the page -- waiting to be devoured.
 
 * Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
-* Your app will store every burger in a database, whether devoured or not.
+* My app stores every burger in a database, whether devoured or not.
 
-* [Check out this video of the app for a run-through of how it works](burger_demo.mp4).
 
 ### Submission on BCS
 
 * Please submit both the deployed Heroku link to your homework AND the link to the Github Repository!
 
 ## Instructions
-
-#### App Setup
-
-1. Create a GitHub repo called `burger` and clone it to your computer.
-
-2. Make a package.json file by running `npm init` from the command line.
-
-3. Install the Express npm package: `npm install express`.
-
-4. Create a server.js file.
-
-5. Install the Handlebars npm package: `npm install express-handlebars`.
-
-6. Install the body-parser npm package: `npm install body-parser`.
-
-7. Install MySQL npm package: `npm install mysql`.
-
-8. Require the following npm packages inside of the server.js file:
-   * express
-   * body-parser
 
 #### DB Setup
 
