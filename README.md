@@ -61,14 +61,16 @@ All the recommended files and directories from the steps above should look like 
         └── main.handlebars
 ```
 ## Burger-Bucket-List Application
----
+
 ### Image of initial application page load
    ![Image API Burger-Bucket-List Home](https://github.com/jhwillia7/Burger/blob/master/public/assets/img/Burger%20Initial%20Page.PNG)
 ---
+### Image of the devoured burger deleted from the list of "Burgers You Have Alread Devoured: Click to Delete" by click on the burger's button."
+   ![Image API Burger-Bucket-List Home](https://github.com/jhwillia7/Burger/blob/master/public/assets/img/Deleted_Burger.PNG)
 - - -
 ### Image of adding a Buger to the list by entering the buger under the "What Custom Burger You Would Like Us to Build?"
    ![Image API Burger-Bucket-List Home](https://github.com/jhwillia7/Burger/blob/master/public/assets/img/Entering_a_burger_to_add.PNG)
 - - -
 ### Image of adding the burger that was entered showing up on the "Our Top Burgers on the Menu: Click to Devour" list.
-   ![Image API Burger-Bucket-List Home](https://github.com/jhwillia7/Burger/blob/master/public/assets/img/Entering_a_burger_to_add.PNG)
+   ![Image API Burger-Bucket-List Home](https://github.com/jhwillia7/Burger/blob/master/public/assets/img/Burger_Shows_On_list.PNG)
 - - -
