@@ -60,9 +60,9 @@ All the recommended files and directories from the steps above should look like 
     └── layouts
         └── main.handlebars
 ```
-### Eat-Da-Burger Application
+### Burger-Bucket-List Application
 ---
-   ![Image API Eat-Da-Burger Home](https://github.com/jhwillia7/FriendFinder/blob/master/images/apiFriendsList.PNG)
+   ![Image API Eat-Da-Burger Home](https://github.com/jhwillia7/Burger/blob/master/public/assets/img/Burger%20Initial%20Page.PNG)
 ---
 - - -
 
